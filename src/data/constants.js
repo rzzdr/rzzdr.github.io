@@ -325,4 +325,25 @@ export const projects = [
       }
     ]
   },
+  {
+    id: 4,
+    title: "Gemini App",
+    date: "May 2024",
+    description:
+      "It's a unofficial version of Gemini, Google's LLM, for android as a chatbot. Fully functional gemini chatbot in your phone.",
+    image:
+      "https://github.com/rzzdr/Gemini-App/blob/main/app/src/main/res/drawable-nodpi/images__1_.png?raw=true",
+    tags: ["Android", "Jetpack Compose", "Kotlin", "Gemini"],
+    category: "android app",
+    github: "https://github.com/rzzdr/Gemini-App/",
+    webapp: "https://github.com/rzzdr/Gemini-App/releases/download/Pre-Release/Gemini.apk",
+    member: [
+      {
+        name: "Rudr Pratap Singh",
+        img: "https://avatars.githubusercontent.com/u/145427916?v=4",
+        linkedin: "https://www.linkedin.com/in/rudr-pratap-singh/",
+        github: "https://github.com/rzzdr/",
+      }
+    ]
+  }
 ];
