@@ -3,8 +3,8 @@ export const Bio = {
   roles: [
     "Software Developer",
     "ML Engineer",
-    "Android Developer",
-    "Programmer",
+    "App Developer",
+    "Developer",
   ],
   description:
     "As a member of three student clubs at Netaji Subhas University of Technology, I apply my AI skills to various projects and challenges, such as developing a deep learning model for image classification, creating a chatbot for campus queries, and analyzing data from astronomical observations. I also collaborate with other students and mentors to learn new technologies, share ideas, and solve problems.",
@@ -24,6 +24,10 @@ export const skills = [
         name: "Jupyter",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+      },
+      {
+        name: "Anaconda",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
       },
       {
         name: "Scikit Learn",
@@ -98,7 +102,7 @@ export const skills = [
     ]
   },
   {
-    title: "Android",
+    title: "App Development",
     skills: [
       {
         name: "Kotlin",
@@ -119,6 +123,14 @@ export const skills = [
         name: "Jetpack Compose",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"
+      },
+      {
+        name: "Flutter",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+      },
+      {
+        name: "Dart",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
       }
     ],
   },
@@ -156,6 +168,14 @@ export const skills = [
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
       },
       {
+        name: "Vim",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"
+      },
+      {
+        name: "NeoVim",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
+      },
+      {
         name: "Figma",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg",
@@ -165,6 +185,10 @@ export const skills = [
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
       },
+      {
+        name: "GitLab",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+      }
     ],
   },
 ];
@@ -314,13 +338,13 @@ export const projects = [
       },
       {
         name: "Navtesh Maken",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgnqomQMZFpA/profile-displayphoto-shrink_400_400/0/1690828602078?e=1724889600&v=beta&t=AInYHcAmQe1fsYwtU8ORAw3DBDB54X3YGgeMYiMyoVM",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQEgnqomQMZFpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690828602078?e=1730937600&v=beta&t=nvks1fawD2bEpbnw2vBqMBttS3e4wEllKZepaErhCeQ",
         linkedin: "https://www.linkedin.com/in/navtesh-maken-95a412286/",
         github: "https://github.com/navtesh21"
       },
       {
         name: "Swayam Singh",
-        img: "https://media.licdn.com/dms/image/D4D03AQETtb6Jtap-6Q/profile-displayphoto-shrink_400_400/0/1693497499932?e=1724889600&v=beta&t=fB9c2SBkZkr1WvB9SHCwcW4U9YOb7rcyUkSui5d04FU",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQETtb6Jtap-6Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693497499932?e=1730937600&v=beta&t=FUxDH7TwrvJb6bNI9JPi-OtO5NcESAirEW3xbd69NTI",
         linkedin: "https://www.linkedin.com/in/swayam-singh-1a434428b/"
       }
     ]
@@ -343,6 +367,108 @@ export const projects = [
         img: "https://avatars.githubusercontent.com/u/145427916?v=4",
         linkedin: "https://www.linkedin.com/in/rudr-pratap-singh/",
         github: "https://github.com/rzzdr/",
+      }
+    ]
+  },
+  {
+    id: 5,
+    title: "Healthcare Management System",
+    date: "September 2024",
+    description:
+      "The AI-powered healthcare project leverages advanced AI to revolutionize patient care. By analyzing patient data, including medical history, lab results, and imaging, AI models assist in accurate diagnosis and predict potential health risks. Personalized treatment plans are tailored to individual patient needs, adapting to real-time data. Real-time monitoring and AI-powered alerts ensure timely intervention for critical changes. A comprehensive dashboard empowers healthcare providers to manage patient data, diagnostics, and treatment plans. Natural language processing enables seamless interaction through voice or text commands. The project's scalable backend architecture ensures easy integration with existing hospital systems. By addressing key challenges and ethical considerations, this AI-powered healthcare initiative aims to significantly improve patient outcomes and transform the healthcare landscape.",
+    image:
+      "https://github.com/rzzdr/healthcare-management-system/blob/main/public/icon.png?raw=true",
+    tags: ["Python", "LLM", "NLP", "AI", "Azure", "LSTM-GAN", "ChatGPT-4o"],
+    category: "machine learning",
+    github: "https://github.com/rzzdr/healthcare-management-system/",
+    webapp: "https://hms-caff-crew.vercel.app/",
+    member: [
+      {
+        name: "Rudr Pratap Singh",
+        img: "https://avatars.githubusercontent.com/u/145427916?v=4",
+        linkedin: "https://www.linkedin.com/in/rudr-pratap-singh/",
+        github: "https://github.com/rzzdr/",
+      },
+      {
+        name: "Atishay Jain",
+        img: "https://avatars.githubusercontent.com/u/53685605?v=4",
+        linkedin: "https://www.linkedin.com/in/atishayj2202/",
+        github: "https://github.com/atishayj2202",
+      },
+      {
+        name: "Krishita Garg",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/krishita_image.png",
+        linkedin: "https://linkedin.com/in/krishita-garg/",
+        github: "https://github.com/KrishitaGarg"
+      },
+      {
+        name: "Dheeraj Sharma",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/dheeraj_image.png",
+        linkedin: "https://www.linkedin.com/in/greatnerve/",
+        github: "https://github.com/GreatNerve"
+      },
+      {
+        name: "Anushree Roy",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/anushree_image.png",
+        linkedin: "https://www.linkedin.com/in/anushree-roy-082370204/",
+        github: "https://github.com/anR-29"
+      },
+      {
+        name: "Kriti Singh",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/kriti_image.png",
+        linkedin: "https://www.linkedin.com/in/kriti-singh-402866290/",
+        github: "https://github.com/kritiug23"
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: "Samvidhaan Decoded",
+    date: "September 2024",
+    description:
+      "Implemented a Retrieval-Augmented Generation (RAG) model using Google Cloud Platform's (GCP) Vertex AI and the Gemini-pro model to simplify and educate Indian citizens about the Indian Constitution. Utilized a processed knowledge base of Indian Constitution articles (Markdown format) pre-simplified using AI techniques to ensure clarity and accessibility.",
+    image:
+      "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/text_image.png",
+    tags: ["Python", "LLM", "NLP", "AI", "GCP", "RAG", "ChromaDB", "LangChain", "Gemini-Pro"],
+    category: "machine learning",
+    github: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/",
+    webapp: "https://samvidhaan-decoded.vercel.app/",
+    member: [
+      {
+        name: "Rudr Pratap Singh",
+        img: "https://avatars.githubusercontent.com/u/145427916?v=4",
+        linkedin: "https://www.linkedin.com/in/rudr-pratap-singh/",
+        github: "https://github.com/rzzdr/",
+      },
+      {
+        name: "Atishay Jain",
+        img: "https://avatars.githubusercontent.com/u/53685605?v=4",
+        linkedin: "https://www.linkedin.com/in/atishayj2202/",
+        github: "https://github.com/atishayj2202",
+      },
+      {
+        name: "Krishita Garg",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/krishita_image.png",
+        linkedin: "https://linkedin.com/in/krishita-garg/",
+        github: "https://github.com/KrishitaGarg"
+      },
+      {
+        name: "Dheeraj Sharma",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/dheeraj_image.png",
+        linkedin: "https://www.linkedin.com/in/greatnerve/",
+        github: "https://github.com/GreatNerve"
+      },
+      {
+        name: "Anushree Roy",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/anushree_image.png",
+        linkedin: "https://www.linkedin.com/in/anushree-roy-082370204/",
+        github: "https://github.com/anR-29"
+      },
+      {
+        name: "Kriti Singh",
+        img: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/blob/master/src/assets/kriti_image.png",
+        linkedin: "https://www.linkedin.com/in/kriti-singh-402866290/",
+        github: "https://github.com/kritiug23"
       }
     ]
   }
