@@ -3,8 +3,8 @@ export const Bio = {
   roles: [
     "Software Developer",
     "ML Engineer",
-    "Android Developer",
-    "Programmer",
+    "App Developer",
+    "Developer",
   ],
   description:
     "As a member of three student clubs at Netaji Subhas University of Technology, I apply my AI skills to various projects and challenges, such as developing a deep learning model for image classification, creating a chatbot for campus queries, and analyzing data from astronomical observations. I also collaborate with other students and mentors to learn new technologies, share ideas, and solve problems.",
@@ -24,6 +24,10 @@ export const skills = [
         name: "Jupyter",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+      },
+      {
+        name: "Anaconda",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
       },
       {
         name: "Scikit Learn",
@@ -98,7 +102,7 @@ export const skills = [
     ]
   },
   {
-    title: "Android",
+    title: "App Development",
     skills: [
       {
         name: "Kotlin",
@@ -119,6 +123,14 @@ export const skills = [
         name: "Jetpack Compose",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"
+      },
+      {
+        name: "Flutter",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+      },
+      {
+        name: "Dart",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
       }
     ],
   },
@@ -156,6 +168,14 @@ export const skills = [
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
       },
       {
+        name: "Vim",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"
+      },
+      {
+        name: "NeoVim",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
+      },
+      {
         name: "Figma",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg",
@@ -165,6 +185,10 @@ export const skills = [
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
       },
+      {
+        name: "GitLab",
+        image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+      }
     ],
   },
 ];
@@ -314,13 +338,13 @@ export const projects = [
       },
       {
         name: "Navtesh Maken",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgnqomQMZFpA/profile-displayphoto-shrink_400_400/0/1690828602078?e=1724889600&v=beta&t=AInYHcAmQe1fsYwtU8ORAw3DBDB54X3YGgeMYiMyoVM",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQEgnqomQMZFpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690828602078?e=1730937600&v=beta&t=nvks1fawD2bEpbnw2vBqMBttS3e4wEllKZepaErhCeQ",
         linkedin: "https://www.linkedin.com/in/navtesh-maken-95a412286/",
         github: "https://github.com/navtesh21"
       },
       {
         name: "Swayam Singh",
-        img: "https://media.licdn.com/dms/image/D4D03AQETtb6Jtap-6Q/profile-displayphoto-shrink_400_400/0/1693497499932?e=1724889600&v=beta&t=fB9c2SBkZkr1WvB9SHCwcW4U9YOb7rcyUkSui5d04FU",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQETtb6Jtap-6Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693497499932?e=1730937600&v=beta&t=FUxDH7TwrvJb6bNI9JPi-OtO5NcESAirEW3xbd69NTI",
         linkedin: "https://www.linkedin.com/in/swayam-singh-1a434428b/"
       }
     ]
