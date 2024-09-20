@@ -377,7 +377,7 @@ export const projects = [
     description:
       "The AI-powered healthcare project leverages advanced AI to revolutionize patient care. By analyzing patient data, including medical history, lab results, and imaging, AI models assist in accurate diagnosis and predict potential health risks. Personalized treatment plans are tailored to individual patient needs, adapting to real-time data. Real-time monitoring and AI-powered alerts ensure timely intervention for critical changes. A comprehensive dashboard empowers healthcare providers to manage patient data, diagnostics, and treatment plans. Natural language processing enables seamless interaction through voice or text commands. The project's scalable backend architecture ensures easy integration with existing hospital systems. By addressing key challenges and ethical considerations, this AI-powered healthcare initiative aims to significantly improve patient outcomes and transform the healthcare landscape.",
     image:
-      "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/HMS-Icon.png?raw=true",
+      "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/HMS-Icon.png?raw=true",
     tags: ["Python", "LLM", "NLP", "AI", "Azure", "LSTM-GAN", "ChatGPT-4o"],
     category: "machine learning",
     github: "https://github.com/rzzdr/healthcare-management-system/",
@@ -397,25 +397,25 @@ export const projects = [
       },
       {
         name: "Krishita Garg",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/krishita_image.613a3673d78eb2fd1cea.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/krishita_image.png?raw=true",
         linkedin: "https://linkedin.com/in/krishita-garg/",
         github: "https://github.com/KrishitaGarg"
       },
       {
         name: "Dheeraj Sharma",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/dheeraj_image.d21e123aad0fd43c02da.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/dheeraj_image.png?raw=true",
         linkedin: "https://www.linkedin.com/in/greatnerve/",
         github: "https://github.com/GreatNerve"
       },
       {
         name: "Anushree Roy",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/anushree_image.b064cf5ba95977cffcbd.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/anushree_image.png?raw=true",
         linkedin: "https://www.linkedin.com/in/anushree-roy-082370204/",
         github: "https://github.com/anR-29"
       },
       {
         name: "Kriti Singh",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/kriti_image.c2a8063fde2cf51a9c47.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/kriti_image.png?raw=true",
         linkedin: "https://www.linkedin.com/in/kriti-singh-402866290/",
         github: "https://github.com/kritiug23"
       }
@@ -428,7 +428,7 @@ export const projects = [
     description:
       "Implemented a Retrieval-Augmented Generation (RAG) model using Google Cloud Platform's (GCP) Vertex AI and the Gemini-pro model to simplify and educate Indian citizens about the Indian Constitution. Utilized a processed knowledge base of Indian Constitution articles (Markdown format) pre-simplified using AI techniques to ensure clarity and accessibility.",
     image:
-      "https://samvidhaan-decoded.vercel.app/static/media/text_image.50cdb741a73166231a3b.png",
+      "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/text_image_light.png?raw=true",
     tags: ["Python", "LLM", "NLP", "AI", "GCP", "RAG", "ChromaDB", "LangChain", "Gemini-Pro"],
     category: "machine learning",
     github: "https://github.com/KrishitaGarg/Samvidhaan-Decoded/",
@@ -448,25 +448,25 @@ export const projects = [
       },
       {
         name: "Krishita Garg",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/krishita_image.613a3673d78eb2fd1cea.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/krishita_image.png?raw=true",
         linkedin: "https://linkedin.com/in/krishita-garg/",
         github: "https://github.com/KrishitaGarg"
       },
       {
         name: "Dheeraj Sharma",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/dheeraj_image.d21e123aad0fd43c02da.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/dheeraj_image.png?raw=true",
         linkedin: "https://www.linkedin.com/in/greatnerve/",
         github: "https://github.com/GreatNerve"
       },
       {
         name: "Anushree Roy",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/anushree_image.b064cf5ba95977cffcbd.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/anushree_image.png?raw=true",
         linkedin: "https://www.linkedin.com/in/anushree-roy-082370204/",
         github: "https://github.com/anR-29"
       },
       {
         name: "Kriti Singh",
-        img: "https://samvidhaan-decoded.vercel.app/static/media/kriti_image.c2a8063fde2cf51a9c47.png",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/SIH%20TEAM%20STUFF/kriti_image.png?raw=true",
         linkedin: "https://www.linkedin.com/in/kriti-singh-402866290/",
         github: "https://github.com/kritiug23"
       }
