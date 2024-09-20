@@ -130,8 +130,9 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_iugcyaa', 'template_pr8483i', form.current, 'D8yfQSGKpYSsPoDTO  ')
+    emailjs.sendForm('service_bczck9u', 'template_vglio6e', form.current, 'bgLDHXiVyCEj2EnHE')
       .then((result) => {
+        console.log('SUCCESS!');
         setOpen(true);
         form.current.reset();
       }, (error) => {
@@ -145,7 +146,7 @@ const Contact = () => {
     <Container>
       <Wrapper>
         <Title>Contact</Title>
-        <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
+        <Desc>Feel free to reach out to me for any questions, queries or opportunities!</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
@@ -157,7 +158,7 @@ const Contact = () => {
         <Snackbar
           open={open}
           autoHideDuration={6000}
-          onClose={()=>setOpen(false)}
+          onClose={() => setOpen(false)}
           message="Email sent successfully!"
           severity="success"
         />
