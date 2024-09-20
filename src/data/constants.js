@@ -223,7 +223,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C510BAQHlQcY_FIqWlg/company-logo_200_200/0/1630564183546/delhi_public_school_sector_19_faridabad_logo?e=2147483647&v=beta&t=jex-E53VJWmsEwxl4TQ8ggFIKJX0g_m1NfTQZUupLgA",
+    img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/dps_image.jpeg?raw=true",
     school: "Delhi Public School, Faridabad",
     date: "Apr 2021 - Apr 2023",
     grade: "85.0%",
@@ -339,12 +339,12 @@ export const projects = [
       {
         name: "Navtesh Maken",
         img: "https://media.licdn.com/dms/image/v2/D4D03AQEgnqomQMZFpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690828602078?e=1730937600&v=beta&t=nvks1fawD2bEpbnw2vBqMBttS3e4wEllKZepaErhCeQ",
-        linkedin: "https://www.linkedin.com/in/navtesh-maken-95a412286/",
+        linkedin: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/navtesh_image.jpeg?raw=true",
         github: "https://github.com/navtesh21"
       },
       {
         name: "Swayam Singh",
-        img: "https://media.licdn.com/dms/image/v2/D4D03AQETtb6Jtap-6Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693497499932?e=1730937600&v=beta&t=FUxDH7TwrvJb6bNI9JPi-OtO5NcESAirEW3xbd69NTI",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/swayam_image.jpeg?raw=true",
         linkedin: "https://www.linkedin.com/in/swayam-singh-1a434428b/"
       }
     ]
