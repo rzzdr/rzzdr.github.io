@@ -10,7 +10,7 @@ export const Bio = {
     "As a member of three student clubs at Netaji Subhas University of Technology, I apply my AI skills to various projects and challenges, such as developing a deep learning model for image classification, creating a chatbot for campus queries, and analyzing data from astronomical observations. I also collaborate with other students and mentors to learn new technologies, share ideas, and solve problems.",
   github: "https://github.com/rzzdr",
   resume:
-    "https://drive.google.com/file/d/1iT97AQKws03MqDmd45hT9VKg7uj0_kfn/view?usp=sharing",
+    "https://drive.proton.me/urls/H411SYBET0#TlA8Jdiple8h",
   linkedin: "https://www.linkedin.com/in/rudr-pratap-singh",
   twitter: "https://x.com/rudrpsingh",
   insta: "https://www.instagram.com/rudrninikarra/",
