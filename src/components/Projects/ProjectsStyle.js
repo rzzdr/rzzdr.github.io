@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import _default from '../../themes/default';
 
 export const Container = styled.div`
     background: linear-gradient(343.07deg, rgba(132, 59, 206, 0.06) 5.71%, rgba(132, 59, 206, 0) 64.83%);
@@ -68,10 +67,10 @@ export const ToggleButton = styled.div`
     border-radius: 6px;
     cursor: pointer;
     ${({ active, theme }) =>
-        active && `
+    active && `
     background: ${theme.primary + 20};
     `
-    }
+  }
     &:hover {
         background: ${({ theme }) => theme.primary + 8};
     }

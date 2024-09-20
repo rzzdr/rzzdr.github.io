@@ -1,9 +1,8 @@
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
-import _default from '../../themes/default';
 
 export const Nav = styled.div`
-    background-color: ${({theme}) => theme.card_light};
+    background-color: ${({ theme }) => theme.card_light};
     height: 80px;
     display: flex;
     align-items: center;
@@ -133,7 +132,7 @@ export const MobileMenu = styled.div`
     right: 0;
     width: 100%;
     padding: 12px 40px 24px 40px;
-    background: ${({ theme }) => theme.card_light+99};
+    background: ${({ theme }) => theme.card_light + 99};
     transition: all 0.6s ease-in-out;
     transform: ${({ isOpen }) => (isOpen ? 'translateY(0)' : 'translateY(-100%)')};
     border-radius: 0 0 20px 20px;
@@ -190,7 +189,7 @@ export const MobileMenuButton = styled.a`
   }
 `;
 
-export  const MobileLink = styled.a`
+export const MobileLink = styled.a`
   color: ${({ theme }) => theme.text_primary};
   font-weight: 500;
   cursor: pointer;
