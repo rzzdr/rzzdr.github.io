@@ -232,7 +232,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C510BAQHlQcY_FIqWlg/company-logo_200_200/0/1630564183546/delhi_public_school_sector_19_faridabad_logo?e=2147483647&v=beta&t=jex-E53VJWmsEwxl4TQ8ggFIKJX0g_m1NfTQZUupLgA",
+    img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/dps_image.jpeg?raw=true",
     school: "Delhi Public School, Faridabad",
     date: "Apr 2020 - Apr 2021",
     grade: "82.3%",
@@ -338,8 +338,8 @@ export const projects = [
       },
       {
         name: "Navtesh Maken",
-        img: "https://media.licdn.com/dms/image/v2/D4D03AQEgnqomQMZFpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690828602078?e=1730937600&v=beta&t=nvks1fawD2bEpbnw2vBqMBttS3e4wEllKZepaErhCeQ",
-        linkedin: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/navtesh_image.jpeg?raw=true",
+        img: "https://github.com/rzzdr/rzzdr.github.io/blob/main/src/images/navtesh_image.jpeg?raw=true",
+        linkedin: "https://www.linkedin.com/in/navtesh-maken-95a412286/",
         github: "https://github.com/navtesh21"
       },
       {
