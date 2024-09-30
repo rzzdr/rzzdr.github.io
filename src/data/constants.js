@@ -199,7 +199,7 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
     role: "Machine Learning Department Member",
     company: "Google DSC NSUT",
-    date: "Sep 2023 - Present",
+    date: "Nov 2023 - Sep 2024",
     desc: "As member of Machine Learning Department, I used Google's Gemini/Bard as well as other LLMs (Falcon, LLaMA, LaMDA, PaLM) to build scalable applications. Performed core NLP based tasks such as NER, similarity search etc. Also used prompt engineering as well as finetuning for various tasks. Used Azure and AWS for deployment, worked with a Github CI/CD pipeline for seamless workflow",
     skills: [
       "Leadership",
@@ -207,6 +207,36 @@ export const experiences = [
       "AI",
       "Deep Learning",
       "Computer Vision",
+    ],
+  },
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+    role: "Machine Learning Department Mentor",
+    company: "Google DSC NSUT",
+    date: "Sep 2024 - Present",
+    desc: "As a senior mentor of Machine Learning Department, I used all the tech that I used in first year of my college but not only that, I also applied my leadrship skills in managing sociecty events and helping juniors just like how my seniors helped me.",
+    skills: [
+      "Leadership",
+      "Machine Learning",
+      "AI",
+      "Deep Learning",
+      "Computer Vision",
+    ],
+  },
+  {
+    id: 2,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZjOyg7PI_udcJo0vISUgl6mHX9O0xwgbyQ&s",
+    role: "Machine Learning Intern",
+    company: "SpeedLegal",
+    date: "Oct 2023 - Present",
+    desc: "",
+    skills: [
+      "LLM",
+      "Machine Learning",
+      "AI",
+      "NLP",
+      "RAG",
     ],
   },
 ];
@@ -473,3 +503,4 @@ export const projects = [
     ]
   }
 ];
+
