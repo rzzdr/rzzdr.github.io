@@ -1,7 +1,6 @@
 import React, { useRef } from "react";
 import styled from "styled-components";
 import emailjs from "@emailjs/browser";
-import EarthCanvas from "../canvas/Earth";
 import { Snackbar } from '@mui/material';
 
 const Container = styled.div`
@@ -155,7 +154,6 @@ const Contact = () => {
   return (
     <Container>
       <Wrapper>
-        <EarthCanvas />
         <Title>Contact</Title>
         <Desc>
           Feel free to reach out to me for any questions, queries or opportunities!

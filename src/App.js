@@ -51,14 +51,13 @@ function App() {
               <Wrapper>
                 <Skills />
                 <Experience />
+                <Education />
               </Wrapper>
               <Projects openModal={openModal} setOpenModal={setOpenModal} />
               <Wrapper>
-                <Education />
                 <Contact />
               </Wrapper>
               <Footer />
-
               {openModal.state && (
                 <ProjectDetails
                   openModal={openModal}
