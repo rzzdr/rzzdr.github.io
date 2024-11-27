@@ -12,8 +12,8 @@ import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 import ProjectDetails from "./components/Dialog/ProjectDetails";
-import { Analytics } from '@vercel/analytics/next';
-import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { useState } from "react";
 
 const Body = styled.div`
@@ -69,7 +69,7 @@ function App() {
             </div>
           </AnimatePresence>
           <SpeedInsights />
-          <Analytics mode="production" />
+          <Analytics />
         </Body>
       </BrowserRouter>
     </ThemeProvider>
